@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/AshutoshSajan/mongodb-transections#readme",
     "dependencies": {
-        "mongoose": "^6.2.0"
+        "mongoose": "^6.12.0"
     }
 }
